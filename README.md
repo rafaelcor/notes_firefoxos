@@ -1,4 +1,2 @@
-notes_firefoxos
-===============
-
-A simple note app,
+Ticket Manager ---
+An application to manage electronic tickets

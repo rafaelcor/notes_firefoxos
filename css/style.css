@@ -1,0 +1,17 @@
+.container #text{
+    height: 290px;
+    width: 290px;
+    resize: none;
+}
+#home{
+    resize: none;
+}
+
+.note_name{
+    border:solid #808080 1px;
+    border-radius: 5px;
+}
+
+.selected{
+    background-color: #FF8C00;
+}
